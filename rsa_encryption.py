@@ -1,4 +1,4 @@
-#egcd and main function left
+#egcd and main function left to explain
 
 import random
 
